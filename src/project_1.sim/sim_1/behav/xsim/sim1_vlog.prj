@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../project_1.srcs/sources_1/ip/clk_wiz_12MHz" --include "../../../../project_1.srcs/sources_1/ip/clk_wiz_0" \
+"../../../../project_1.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" \
+"../../../../project_1.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v" \
+"../../../../project_1.srcs/sources_1/new/Nixie_tube_display.v" \
+"../../../../project_1.srcs/sources_1/new/hvsync_generator.v" \
+"../../../../project_1.srcs/sources_1/new/main_top.v" \
+"../../../../project_1.srcs/sources_1/new/music.v" \
+"../../../../project_1.srcs/sim_1/new/sim1.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,16 @@
+0.6
+2019.1
+Sep  4 2019
+09:57:52
+E:/zyj/magic code/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+E:/zyj/magic code/project_1/project_1.srcs/sim_1/new/sim1.v,1576156988,verilog,,,,sim1,,,../../../../project_1.srcs/sources_1/ip/clk_wiz_0;../../../../project_1.srcs/sources_1/ip/clk_wiz_12MHz,,,,,
+E:/zyj/magic code/project_1/project_1.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1575978145,verilog,,E:/zyj/magic code/project_1/project_1.srcs/sources_1/new/Nixie_tube_display.v,,clk_wiz_0,,,../../../../project_1.srcs/sources_1/ip/clk_wiz_0;../../../../project_1.srcs/sources_1/ip/clk_wiz_12MHz,,,,,
+E:/zyj/magic code/project_1/project_1.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1575978145,verilog,,E:/zyj/magic code/project_1/project_1.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../project_1.srcs/sources_1/ip/clk_wiz_0;../../../../project_1.srcs/sources_1/ip/clk_wiz_12MHz,,,,,
+E:/zyj/magic code/project_1/project_1.srcs/sources_1/ip/clk_wiz_12MHz/clk_wiz_12MHz.v,1575682201,verilog,,E:/zyj/magic code/project_1/project_1.srcs/sources_1/new/music.v,,clk_wiz_12MHz,,,../../../../project_1.srcs/sources_1/ip/clk_wiz_12MHz,,,,,
+E:/zyj/magic code/project_1/project_1.srcs/sources_1/ip/clk_wiz_12MHz/clk_wiz_12MHz_clk_wiz.v,1575682201,verilog,,E:/zyj/magic code/project_1/project_1.srcs/sources_1/ip/clk_wiz_12MHz/clk_wiz_12MHz.v,,clk_wiz_12MHz_clk_wiz,,,../../../../project_1.srcs/sources_1/ip/clk_wiz_12MHz,,,,,
+E:/zyj/magic code/project_1/project_1.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v,1575853289,verilog,,E:/zyj/magic code/project_1/project_1.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,,dist_mem_gen_0,,,../../../../project_1.srcs/sources_1/ip/clk_wiz_0;../../../../project_1.srcs/sources_1/ip/clk_wiz_12MHz,,,,,
+E:/zyj/magic code/project_1/project_1.srcs/sources_1/new/Nixie_tube_display.v,1576221314,verilog,,E:/zyj/magic code/project_1/project_1.srcs/sources_1/new/hvsync_generator.v,,state_display,,,../../../../project_1.srcs/sources_1/ip/clk_wiz_0;../../../../project_1.srcs/sources_1/ip/clk_wiz_12MHz,,,,,
+E:/zyj/magic code/project_1/project_1.srcs/sources_1/new/hvsync_generator.v,1576545617,verilog,,E:/zyj/magic code/project_1/project_1.srcs/sources_1/new/main_top.v,,hvsync_generator,,,../../../../project_1.srcs/sources_1/ip/clk_wiz_0;../../../../project_1.srcs/sources_1/ip/clk_wiz_12MHz,,,,,
+E:/zyj/magic code/project_1/project_1.srcs/sources_1/new/main_top.v,1576573213,verilog,,E:/zyj/magic code/project_1/project_1.srcs/sources_1/new/music.v,,top,,,../../../../project_1.srcs/sources_1/ip/clk_wiz_0;../../../../project_1.srcs/sources_1/ip/clk_wiz_12MHz,,,,,
+E:/zyj/magic code/project_1/project_1.srcs/sources_1/new/music.v,1575991584,verilog,,E:/zyj/magic code/project_1/project_1.srcs/sim_1/new/sim1.v,,music,,,../../../../project_1.srcs/sources_1/ip/clk_wiz_0;../../../../project_1.srcs/sources_1/ip/clk_wiz_12MHz,,,,,
+E:/zyj/magic code/project_1/project_1.srcs/sources_1/new/sim2.v,1576024117,verilog,,,,sim2,,,../../../../project_1.srcs/sources_1/ip/clk_wiz_0;../../../../project_1.srcs/sources_1/ip/clk_wiz_12MHz,,,,,
